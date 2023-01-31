@@ -1,4 +1,4 @@
-![weight-tracker1](https://user-images.githubusercontent.com/59264488/215612920-5a583d18-add6-4a22-a0a4-4fb66177aad8.JPG)
+![weight-tracker2](https://user-images.githubusercontent.com/59264488/215647253-5d281613-6c02-459d-b69d-6ecd74f98287.JPG)
 
 ## Available Scripts
 
